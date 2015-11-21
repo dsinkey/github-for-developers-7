@@ -6,5 +6,6 @@ Please please add my bio to the repo. Here's the requested information:
 *Home City: Sioux, Falls SD
 *Favorite Food: Meat
 *Hobby: JavaScript!
+*Favorite Color: Black
 
 Thank you!
