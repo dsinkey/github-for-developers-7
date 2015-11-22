@@ -7,5 +7,6 @@ Please please add my bio to the repo. Here's the requested information:
 *Favorite Food: Meat
 *Hobby: JavaScript!
 *Favorite Color: Black
+**Current City:** San Francisco
 
 Thank you!
